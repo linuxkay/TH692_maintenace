@@ -1,5 +1,10 @@
 # TH692 networkcam maintenace tools
 
+# Description
+sync date and time etc.
+py file syncs date and time of isolated cam(wich does not have access to outside of LAN).
+
+
 #Update info
 
 2019/09/30
@@ -30,10 +35,6 @@ python version hits 100% cpu usage in RaspberryPi1B
 Recommend using shell version.
 
 It's faster and lighter.
-
-# Other notes
-sync date and time etc.
-py file syncs date and time of isolated cam(wich does not have access to outside of LAN).
 
 
 # License
