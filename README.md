@@ -3,7 +3,7 @@
 # Description
 Sync date and time of TH692 remotely.
 
-Programs to syncs date and time of network isolated TH692 camera (wich does not have access internet).
+Programs to sync date and time of network isolated TH692 camera (wich does not have access internet).
 
 
 #Update info
@@ -39,7 +39,7 @@ It's faster and lighter.
 
 # Credits 
 
-<a href="Make a shell script execute commands in telnet or programs">StackExchange: Make a shell script execute commands in telnet or programs</a>
+<a href="https://unix.stackexchange.com/questions/247336/make-a-shell-script-execute-commands-in-telnet-or-programs">StackExchange: Make a shell script execute commands in telnet or programs</a>
 
 
 <a href="https://stackoverflow.com/questions/4651437/how-do-i-set-a-variable-to-the-output-of-a-command-in-bash">Stack Overflow :shell - How do I set a variable to the output of a command in Bash</a>
