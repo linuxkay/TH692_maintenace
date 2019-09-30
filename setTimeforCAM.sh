@@ -5,7 +5,7 @@ CMD=''
 #Show current time in specific time formart
 NOWTIME="$(date +"%Y-%m-%d %H:%M:%S"
 )" 
-# This is for debug to dislpay current time in local machine
+# This is for debugging. Dislpay current time in local machine
 #echo "${NOWTIME}"
 (
 echo open "$HOST"
