@@ -1,8 +1,9 @@
 # TH692 networkcam maintenace tools
 
 # Description
-sync date and time etc.
-py file syncs date and time of isolated cam(wich does not have access to outside of LAN).
+Sync date and time of TH692 remotely.
+
+Programs to syncs date and time of network isolated TH692 camera (wich does not have access internet).
 
 
 #Update info
