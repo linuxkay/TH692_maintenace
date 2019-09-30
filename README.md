@@ -18,19 +18,19 @@ Added `setTimeforCAM.sh`
 
 For security reasons, RaspberryPi1B does not have internet access. Only ssh access to other machines(connected to internet)
 
-So I had to download telnet.deb package via sudo apt download telnet in the machine(connected to internet) and scp to raspberrypi1B
+So I had to download `telnet.deb` package via `sudo apt download telnet` in the machine(connected to internet) and scp to raspberrypi1B
 
-Finally I could install telnet by dkpg command in RaspberryPi1B
+Finally I could install telnet by `dkpg` command in RaspberryPi1B
 
 # Requirement
 
 telnet
 
-sudo apt install telnet 
+`sudo apt install telnet`
 
 python3
 
-sudo apt install python3
+`sudo apt install python3`
 
 # Bechmark results
 
