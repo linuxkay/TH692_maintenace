@@ -1,6 +1,6 @@
 HOST='192.168.0.100'
 USER='root'
-PASSWD='cat1029'
+PASSWD='passwordofth692'
 CMD=''
 #Show current time in specific time formart
 NOWTIME="$(date +"%Y-%m-%d %H:%M:%S"
@@ -17,7 +17,7 @@ sleep 0.2
 # Manual way to set time in specific time format
 #echo "date -s '2000-12-12 11:14:00'"
 echo "date -s '${NOWTIME}'"
-# Need sleep 0.6 to wait for date -s commands executed
+# Need sleep 0.6 to wait for date -s command to be executed
 sleep 0.6 
 echo "exit"
 ) | telnet
