@@ -18,7 +18,7 @@ So I had to download `telnet.deb` package via `sudo apt download telnet` in the 
 
 Finally I could install telnet by `dkpg` command in RaspberryPi1B
 
-## Requirement
+## Requirements
 
 telnet
 
