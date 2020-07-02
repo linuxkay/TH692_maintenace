@@ -47,7 +47,6 @@ It's faster and lighter.
 
 <a href="https://stackoverflow.com/questions/4651437/how-do-i-set-a-variable-to-the-output-of-a-command-in-bash">Stack Overflow :shell - How do I set a variable to the output of a command in Bash</a>
 
-I don't use bash at all so it was huge help.
 
 ## Updates
 
