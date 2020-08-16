@@ -12,7 +12,7 @@ Programs to sync date and time of network isolated TH692 camera (wich does not h
 
 ## Memo
 
-For security reasons, RaspberryPi1B does not have internet access. Only ssh access to other machines(connected to internet)
+For security reasons, I putted RaspberryPi1B in LAN which does not have internet access. Only ssh access to other machines(connected to internet)
 
 So I had to download `telnet.deb` package via `sudo apt download telnet` in the machine(connected to internet) and scp to raspberrypi1B
 
