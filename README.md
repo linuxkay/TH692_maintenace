@@ -5,9 +5,9 @@
 Network Camera management
 
 ## Description
-Sync date and time of TH692 remotely.
+Sync date and time TH692 network cam remotely.
 
-Programs to sync date and time of network isolated TH692 camera (wich does not have internet access).
+Programs to sync date and time of network isolated TH692 camera (wich does not have internet access only LAN).
 
 
 ## Memo
