@@ -14,7 +14,7 @@ Programs to sync date and time of network isolated TH692 camera (wich does not h
 
 For security reasons, I putted RaspberryPi1B in LAN which does not have internet access. Only ssh access to other machines(connected to internet)
 
-I needed telent commnad in Pi. It does not come with it by default. So I had to download `telnet.deb` package via `sudo apt download telnet` in the machine(connected to internet) and scp to raspberrypi1B
+I needed telent commnad in Pi. It does not come with it by default. So I had to download `telnet.deb` package by the command `sudo apt download telnet` in the machine(connected to internet) and scp to raspberrypi1B
 
 Finally I could install telnet by `dkpg` command in RaspberryPi1B
 
