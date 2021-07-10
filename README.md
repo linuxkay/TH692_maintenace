@@ -56,6 +56,10 @@ Added `setTimeforCAM.sh`
 
 `setTimeforCAM.sh` only requires `telnet` since TH692 only have telnet access.
 
+Previous network settings.
+![previous_network_settings](https://user-images.githubusercontent.com/9047935/125162936-ae0fa580-e1c5-11eb-82a6-075879ea6f03.png)
+
+
 
 ## Licence
 [MIT]
